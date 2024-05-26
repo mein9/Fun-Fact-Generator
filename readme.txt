@@ -1,3 +1,3 @@
-PyWebIO required for this program
-to install in terminal type: pip install pywebio
-also needed to install pip requests like this : pip install requests
+PyWebIO and pip requests are required for this program
+to install in terminal type the following: pip install pywebio 
+to install pip requests: pip install requests
